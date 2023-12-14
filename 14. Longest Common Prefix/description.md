@@ -19,6 +19,7 @@ If there is no common prefix, return an empty string "".
 **Input:** strs = ["dog","racecar","car"]
 
 **Output:** ""
+
 **Explanation:** There is no common prefix among the input strings.
 
 ### Constraints:
